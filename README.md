@@ -8,7 +8,7 @@ Convert your spreadsheets (Google Sheets, Excel, CSV, etc.) into powerful web ap
 
 This list groups **SaaS/Hosted** platforms and **Open-Source / Self-Hosted** alternatives, with **strong emphasis on open-source solutions**.
 
-## SaaS / Hosted Platforms
+## ☁️ SaaS / Hosted Platforms
 
 Popular commercial tools that connect directly to spreadsheets and generate web interfaces quickly.
 
@@ -27,7 +27,7 @@ Popular commercial tools that connect directly to spreadsheets and generate web 
 | **[SpreadsheetWeb](https://www.spreadsheetweb.com/)** | Converts Excel models into web apps and calculators. | Starts at $25/mo. No free tier (14-day free trial available).  $1M |
 | **[Appizy](https://www.appizy.com/)** | Excel spreadsheets → interactive web applications. | Starts at €10/mo. Free tier available (basic converter, limited features).  $1M |
 
-## Open-Source & Self-Hosted Alternatives (Primary Focus)
+## 🌍 Open-Source & Self-Hosted Alternatives (Primary Focus)
 
 Free, self-hostable solutions that give you full control over your data and infrastructure. Perfect for privacy, customization, and avoiding vendor lock-in.
 
@@ -41,7 +41,7 @@ Free, self-hostable solutions that give you full control over your data and infr
 - **[Baserow](https://github.com/bramw/baserow)** [![GitHub stars](https://img.shields.io/github/stars/bramw/baserow?style=social&color=white)](https://github.com/bramw/baserow/stargazers) — Open-source no-code database and application builder. Import spreadsheets, build custom apps, and use templates.  
 - **[Rowy](https://github.com/buildship-ai/rowy)** [![GitHub stars](https://img.shields.io/github/stars/buildship-ai/rowy?style=social&color=white)](https://github.com/buildship-ai/rowy/stargazers) — Airtable-like spreadsheet UI with low-code backend functions (JS/TS) on Firebase/Google Cloud.  
 - **[Saltcorn](https://github.com/saltcorn/saltcorn)** [![GitHub stars](https://img.shields.io/github/stars/saltcorn/saltcorn?style=social&color=white)](https://github.com/saltcorn/saltcorn/stargazers) — Self-hosted no-code application builder.  
-## Quick Comparison (Open-Source)
+## 📊 Quick Comparison (Open-Source)
 
 | Tool        | Spreadsheet Import | App/UI Building | Self-Hosting     | Best For                     | License   |
 |-------------|--------------------|-----------------|------------------|------------------------------|-----------|
@@ -52,7 +52,7 @@ Free, self-hostable solutions that give you full control over your data and infr
 | Appsmith   | Good              | Excellent      | Yes             | Dashboards & admin panels   | Apache   |
 | ToolJet    | Good              | Excellent      | Yes             | Enterprise internal tools   | AGPL     |
 
-## Why Go Open-Source?
+## 💡 Why Go Open-Source?
 
 - Full data ownership and privacy
 - No per-seat pricing or row limits on self-hosted instances
@@ -60,7 +60,7 @@ Free, self-hostable solutions that give you full control over your data and infr
 - Cost-effective at any scale (only infrastructure cost)
 - Easy data export and no vendor lock-in
 
-## Getting Started
+## 🚀 Getting Started
 
 1. **Quick start with spreadsheets** → Try **NocoDB** or **Baserow**
 2. **Advanced formulas & relational data** → **Grist**
@@ -68,7 +68,7 @@ Free, self-hostable solutions that give you full control over your data and infr
 
 Most projects offer one-click Docker deployment.
 
-## Contributing
+## 🤝 Contributing
 
 This list is community-driven. Feel free to open a PR to add new tools, update information, or improve comparisons!
 
