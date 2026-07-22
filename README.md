@@ -28,36 +28,16 @@ Popular commercial tools that connect directly to spreadsheets and generate web 
 
 Free, self-hostable solutions that give you full control over your data and infrastructure. Perfect for privacy, customization, and avoiding vendor lock-in.
 
-### Top Recommendations
-
-- **[NocoDB](https://nocodb.com/)** — The most popular open-source **Airtable alternative**. Turn any SQL database into a spreadsheet-like interface with multiple views (Grid, Kanban, Gallery, Calendar, Form), REST/GraphQL APIs, and automations. Import spreadsheets easily.  
-  **GitHub**: [nocodb/nocodb](https://github.com/nocodb/nocodb)
-
-- **[Baserow](https://baserow.io/)** — Open-source no-code database and application builder. Import spreadsheets, build custom apps, and use templates.  
-  **GitHub**: [baserow/baserow](https://github.com/bramw/baserow)
-
-- **[Grist](https://www.getgrist.com/)** — Relational spreadsheet-database hybrid with powerful formulas (including Python), charts, and sharing. Excellent for complex data logic. Self-hostable with SQLite support.  
-  **GitHub**: [gristlabs/grist-core](https://github.com/gristlabs/grist-core)
-
-### Low-Code App Builders
-
-- **[Budibase](https://budibase.com/)** — Build internal tools, dashboards, forms, approval apps, and automations. Connects to spreadsheets/databases. Drag-and-drop UI.  
-  **GitHub**: [budibase/budibase](https://github.com/budibase/budibase)
-
-- **[Appsmith](https://www.appsmith.com/)** — Build custom dashboards, admin panels, and CRUD apps with JavaScript extensibility. Great for internal tools.  
-  **GitHub**: [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
-
-- **[ToolJet](https://www.tooljet.com/)** — Low-code platform for building internal tools and dashboards with extensive data connectors and code flexibility.  
-  **GitHub**: [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-
-### Other Notable Open-Source Tools
-
-- **[Rowy](https://www.rowy.io/)** — Airtable-like spreadsheet UI with low-code backend functions (JS/TS) on Firebase/Google Cloud.  
-  **GitHub**: [buildship-ai/rowy](https://github.com/buildship-ai/rowy)
-- **[Teable](https://teable.io/)** — Modern spreadsheet-database.
-- **[NocoBase](https://www.nocobase.com/)** — Highly extensible no-code platform.
-- **[Saltcorn](https://saltcorn.com/)** — Self-hosted no-code application builder.
-
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) — The most popular open-source **Airtable alternative**. Turn any SQL database into a spreadsheet-like interface with multiple views (Grid, Kanban, Gallery, Calendar, Form), REST/GraphQL APIs, and automations. Import spreadsheets easily.  
+- **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers) — Build custom dashboards, admin panels, and CRUD apps with JavaScript extensibility. Great for internal tools.  
+- **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers) — Low-code platform for building internal tools and dashboards with extensive data connectors and code flexibility.  
+- **[Budibase](https://github.com/budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/budibase/budibase?style=social&color=white)](https://github.com/budibase/budibase/stargazers) — Build internal tools, dashboards, forms, approval apps, and automations. Connects to spreadsheets/databases. Drag-and-drop UI.  
+- **[Teable](https://github.com/teableio/teable)** [![GitHub stars](https://img.shields.io/github/stars/teableio/teable?style=social&color=white)](https://github.com/teableio/teable/stargazers) — Modern spreadsheet-database.  
+- **[NocoBase](https://github.com/nocobase/nocobase)** [![GitHub stars](https://img.shields.io/github/stars/nocobase/nocobase?style=social&color=white)](https://github.com/nocobase/nocobase/stargazers) — Highly extensible no-code platform.  
+- **[Grist](https://github.com/gristlabs/grist-core)** [![GitHub stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=social&color=white)](https://github.com/gristlabs/grist-core/stargazers) — Relational spreadsheet-database hybrid with powerful formulas (including Python), charts, and sharing. Excellent for complex data logic. Self-hostable with SQLite support.  
+- **[Baserow](https://github.com/bramw/baserow)** [![GitHub stars](https://img.shields.io/github/stars/bramw/baserow?style=social&color=white)](https://github.com/bramw/baserow/stargazers) — Open-source no-code database and application builder. Import spreadsheets, build custom apps, and use templates.  
+- **[Rowy](https://github.com/buildship-ai/rowy)** [![GitHub stars](https://img.shields.io/github/stars/buildship-ai/rowy?style=social&color=white)](https://github.com/buildship-ai/rowy/stargazers) — Airtable-like spreadsheet UI with low-code backend functions (JS/TS) on Firebase/Google Cloud.  
+- **[Saltcorn](https://github.com/saltcorn/saltcorn)** [![GitHub stars](https://img.shields.io/github/stars/saltcorn/saltcorn?style=social&color=white)](https://github.com/saltcorn/saltcorn/stargazers) — Self-hosted no-code application builder.  
 ## Quick Comparison (Open-Source)
 
 | Tool        | Spreadsheet Import | App/UI Building | Self-Hosting     | Best For                     | License   |
