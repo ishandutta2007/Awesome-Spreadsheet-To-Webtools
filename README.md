@@ -1,1 +1,92 @@
 # Awesome-Spreadsheet-To-Webtools
+## Top Spreadsheet to Web Tools & Converters
+
+Convert your spreadsheets (Google Sheets, Excel, CSV, etc.) into powerful web apps, databases, portals, dashboards, and internal tools — with minimal or no coding.
+
+This list groups **SaaS/Hosted** platforms and **Open-Source / Self-Hosted** alternatives, with **strong emphasis on open-source solutions**.
+
+## SaaS / Hosted Platforms
+
+Popular commercial tools that connect directly to spreadsheets and generate web interfaces quickly.
+
+- **[Softr](https://softr.io/)** — Beautiful client portals, directories, and web apps from Airtable/Google Sheets.
+- **[Glide](https://www.glideapps.com/)** — Turns Google Sheets into mobile-first web & native apps (excellent for PWAs).
+- **[Noloco](https://noloco.io/)** — No-code web apps and member portals from spreadsheets.
+- **[Stacker](https://www.stackerhq.com/)** — Transforms spreadsheets/Airtable into business apps and customer portals.
+- **[AppSheet](https://about.appsheet.com/home/)** (Google) — Powerful no-code apps directly from spreadsheets with strong mobile support.
+- **[Bubble](https://bubble.io/)** — Full visual web application builder with excellent data integration.
+- **[Adalo](https://www.adalo.com/)** — Mobile app builder with spreadsheet/database integration.
+- **[SpreadSimple](https://spreadsimple.com/)** — Simple websites and apps from Google Sheets/Excel.
+- **[Microsoft Power Apps](https://powerapps.microsoft.com/)** — Enterprise solution with deep Excel/SharePoint integration.
+- **[Clappia](https://clappia.com/)** — No-code apps with workflows from spreadsheets.
+- **[SpreadsheetWeb](https://www.spreadsheetweb.com/)** — Converts Excel models into web apps and calculators.
+- **[Appizy](https://www.appizy.com/)** — Excel spreadsheets → interactive web applications.
+
+## Open-Source & Self-Hosted Alternatives (Primary Focus)
+
+Free, self-hostable solutions that give you full control over your data and infrastructure. Perfect for privacy, customization, and avoiding vendor lock-in.
+
+### Top Recommendations
+
+- **[NocoDB](https://nocodb.com/)** — The most popular open-source **Airtable alternative**. Turn any SQL database into a spreadsheet-like interface with multiple views (Grid, Kanban, Gallery, Calendar, Form), REST/GraphQL APIs, and automations. Import spreadsheets easily.  
+  **GitHub**: [nocodb/nocodb](https://github.com/nocodb/nocodb)
+
+- **[Baserow](https://baserow.io/)** — Open-source no-code database and application builder. Import spreadsheets, build custom apps, and use templates.  
+  **GitHub**: [baserow/baserow](https://github.com/bramw/baserow)
+
+- **[Grist](https://www.getgrist.com/)** — Relational spreadsheet-database hybrid with powerful formulas (including Python), charts, and sharing. Excellent for complex data logic. Self-hostable with SQLite support.  
+  **GitHub**: [gristlabs/grist-core](https://github.com/gristlabs/grist-core)
+
+### Low-Code App Builders
+
+- **[Budibase](https://budibase.com/)** — Build internal tools, dashboards, forms, approval apps, and automations. Connects to spreadsheets/databases. Drag-and-drop UI.  
+  **GitHub**: [budibase/budibase](https://github.com/budibase/budibase)
+
+- **[Appsmith](https://www.appsmith.com/)** — Build custom dashboards, admin panels, and CRUD apps with JavaScript extensibility. Great for internal tools.  
+  **GitHub**: [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
+
+- **[ToolJet](https://www.tooljet.com/)** — Low-code platform for building internal tools and dashboards with extensive data connectors and code flexibility.  
+  **GitHub**: [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+
+### Other Notable Open-Source Tools
+
+- **[Rowy](https://www.rowy.io/)** — Airtable-like spreadsheet UI with low-code backend functions (JS/TS) on Firebase/Google Cloud.  
+  **GitHub**: [buildship-ai/rowy](https://github.com/buildship-ai/rowy)
+- **[Teable](https://teable.io/)** — Modern spreadsheet-database.
+- **[NocoBase](https://www.nocobase.com/)** — Highly extensible no-code platform.
+- **[Saltcorn](https://saltcorn.com/)** — Self-hosted no-code application builder.
+
+## Quick Comparison (Open-Source)
+
+| Tool        | Spreadsheet Import | App/UI Building | Self-Hosting     | Best For                     | License   |
+|-------------|--------------------|-----------------|------------------|------------------------------|-----------|
+| NocoDB     | Excellent         | Good           | Docker / K8s    | Airtable-like + APIs        | AGPL/OSS |
+| Baserow    | Excellent         | Strong         | Yes             | No-code apps & templates    | MIT      |
+| Grist      | Excellent         | Good           | Yes             | Complex formulas & data     | Apache   |
+| Budibase   | Good              | Excellent      | Yes             | Internal tools & workflows  | GPL      |
+| Appsmith   | Good              | Excellent      | Yes             | Dashboards & admin panels   | Apache   |
+| ToolJet    | Good              | Excellent      | Yes             | Enterprise internal tools   | AGPL     |
+
+## Why Go Open-Source?
+
+- Full data ownership and privacy
+- No per-seat pricing or row limits on self-hosted instances
+- Highly customizable and extensible
+- Cost-effective at any scale (only infrastructure cost)
+- Easy data export and no vendor lock-in
+
+## Getting Started
+
+1. **Quick start with spreadsheets** → Try **NocoDB** or **Baserow**
+2. **Advanced formulas & relational data** → **Grist**
+3. **Rich web apps & dashboards** → **Budibase**, **Appsmith**, or **ToolJet**
+
+Most projects offer one-click Docker deployment.
+
+## Contributing
+
+This list is community-driven. Feel free to open a PR to add new tools, update information, or improve comparisons!
+
+---
+
+**Focus**: Open-source freedom, self-hosting, and turning spreadsheet data into real web tools.
