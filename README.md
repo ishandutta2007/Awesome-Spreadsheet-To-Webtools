@@ -2,6 +2,9 @@
 
 <p align="center"><img src="assets/banner.svg" alt="Banner"></p>
 
+<meta name="description" content="A curated list of awesome tools to convert spreadsheets like Google Sheets, Excel, and CSV into powerful web apps, internal tools, portals, and dashboards." />
+<meta name="keywords" content="spreadsheet to web app, google sheets to web app, excel to web app, internal tools builder, open source nocode, low code platform" />
+
 ## Top Spreadsheet to Web Tools & Converters
 
 Convert your spreadsheets (Google Sheets, Excel, CSV, etc.) into powerful web apps, databases, portals, dashboards, and internal tools — with minimal or no coding.
