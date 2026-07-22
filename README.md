@@ -82,3 +82,15 @@ This list is community-driven. Feel free to open a PR to add new tools, update i
 ---
 
 **Focus**: Open-source freedom, self-hosting, and turning spreadsheet data into real web tools.
+
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Spreadsheet-To-Webtools&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Spreadsheet-To-Webtools&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Spreadsheet-To-Webtools&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Spreadsheet-To-Webtools&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
