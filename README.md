@@ -9,18 +9,20 @@ This list groups **SaaS/Hosted** platforms and **Open-Source / Self-Hosted** alt
 
 Popular commercial tools that connect directly to spreadsheets and generate web interfaces quickly.
 
-- **[Softr](https://softr.io/)** — Beautiful client portals, directories, and web apps from Airtable/Google Sheets.
-- **[Glide](https://www.glideapps.com/)** — Turns Google Sheets into mobile-first web & native apps (excellent for PWAs).
-- **[Noloco](https://noloco.io/)** — No-code web apps and member portals from spreadsheets.
-- **[Stacker](https://www.stackerhq.com/)** — Transforms spreadsheets/Airtable into business apps and customer portals.
-- **[AppSheet](https://about.appsheet.com/home/)** (Google) — Powerful no-code apps directly from spreadsheets with strong mobile support.
-- **[Bubble](https://bubble.io/)** — Full visual web application builder with excellent data integration.
-- **[Adalo](https://www.adalo.com/)** — Mobile app builder with spreadsheet/database integration.
-- **[SpreadSimple](https://spreadsimple.com/)** — Simple websites and apps from Google Sheets/Excel.
-- **[Microsoft Power Apps](https://powerapps.microsoft.com/)** — Enterprise solution with deep Excel/SharePoint integration.
-- **[Clappia](https://clappia.com/)** — No-code apps with workflows from spreadsheets.
-- **[SpreadsheetWeb](https://www.spreadsheetweb.com/)** — Converts Excel models into web apps and calculators.
-- **[Appizy](https://www.appizy.com/)** — Excel spreadsheets → interactive web applications.
+| Product | Description | Pricing |
+|---------|-------------|---------|
+| **[Softr](https://softr.io/)** | Beautiful client portals, directories, and web apps from Airtable/Google Sheets. | Starts at $49/mo. Free tier available (up to 5 internal or 100 external users). |
+| **[Glide](https://www.glideapps.com/)** | Turns Google Sheets into mobile-first web & native apps (excellent for PWAs). | Starts at $25/mo. Free tier available (up to 3 apps, limited data/updates). |
+| **[Noloco](https://noloco.io/)** | No-code web apps and member portals from spreadsheets. | Starts at $39/mo. No free tier (free trial available). |
+| **[Stacker](https://www.stackerhq.com/)** | Transforms spreadsheets/Airtable into business apps and customer portals. | Starts at $59/mo. No free tier (30-day free trial available). |
+| **[AppSheet](https://about.appsheet.com/home/)** | Powerful no-code apps directly from spreadsheets with strong mobile support. | Starts at $5/user/mo. Free tier available (for prototyping, up to 10 users). |
+| **[Bubble](https://bubble.io/)** | Full visual web application builder with excellent data integration. | Starts at $32/mo. Free tier available (watermarked, basic features, community support). |
+| **[Adalo](https://www.adalo.com/)** | Mobile app builder with spreadsheet/database integration. | Starts at $45/mo. Free tier available (limited records and features, Adalo branding). |
+| **[SpreadSimple](https://spreadsimple.com/)** | Simple websites and apps from Google Sheets/Excel. | Starts at $13/mo. Free tier available (basic features, SpreadSimple branding). |
+| **[Microsoft Power Apps](https://powerapps.microsoft.com/)** | Enterprise solution with deep Excel/SharePoint integration. | Starts at $20/user/mo. Free developer plan available (for individual testing). |
+| **[Clappia](https://clappia.com/)** | No-code apps with workflows from spreadsheets. | Starts at $5/user/mo. Free tier available (limited apps, users, and records). |
+| **[SpreadsheetWeb](https://www.spreadsheetweb.com/)** | Converts Excel models into web apps and calculators. | Starts at $25/mo. No free tier (14-day free trial available). |
+| **[Appizy](https://www.appizy.com/)** | Excel spreadsheets → interactive web applications. | Starts at €10/mo. Free tier available (basic converter, limited features). |
 
 ## Open-Source & Self-Hosted Alternatives (Primary Focus)
 
